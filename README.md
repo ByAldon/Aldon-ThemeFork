@@ -6,8 +6,8 @@ All the plugins and or themes that i present to you are [privacy focussed, secur
 
 #
 ### Download your plugin here
-You can download your plugin [here](https://github.com/DevAldon/JOLT-ThemeFork/archive/refs/heads/main.zip).<br>
-You can read how to install [here](https://github.com/DevAldon/WordPress/wiki/How-to-install-the-plugins).
+You can download your plugin [here](https://github.com/ByAldon/Aldon-ThemeFork/raw/refs/heads/main/install/themefork.zip).<br>
+You can read how to install [here](https://byaldon.github.io/Aldon-Wiki/#how-to-install-the-plugins).
 #
 
 ![Screenshot 2025-06-30 at 15-17-49 JOLT ThemeFork ‹ word](https://github.com/user-attachments/assets/84d46ab8-a117-4557-80e5-2a96aa97a129)
