@@ -1,7 +1,7 @@
 <?php
 /*
-Plugin Name: JOLT ThemeFork
-Plugin URI: https://github.com/johnoltmans/JOLT-ThemeFork
+Plugin Name: Aldon ThemeFork
+Plugin URI: https://github.com/ByAldon/Aldon-ThemeFork
 Description: Instantly create a clean, functional child theme from your currently active WordPress theme — with one click.
 Version: 1.8
 Requires at least: 6.8
